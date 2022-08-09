@@ -74,7 +74,7 @@ html {
 .navbar__links__container {
   display: flex;
   width: 100%;
-  max-width: 214px;
+  max-width: 170px;
   justify-content: right;
 }
 .navbar__link {
@@ -87,6 +87,7 @@ html {
 .burger {
   display: none;
   cursor: pointer;
+  right:20px;
 }
 .burger .line {
   width: 25px;
@@ -341,7 +342,6 @@ html {
     z-index: 20;
     display: block;
     position:fixed;
-    right: 20px;
   }
   
   .navbar__logo{
