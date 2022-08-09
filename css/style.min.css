@@ -68,7 +68,6 @@ html {
   text-transform: uppercase;
   font-weight: 700;
   font-size: 41px;
-  width: 100%;
   max-width: 276px;
   letter-spacing: 4.17px;
 }
@@ -342,8 +341,14 @@ html {
     z-index: 20;
     display: block;
     position:fixed;
-    right: 0px;
+    right: 20px;
   }
+  
+  .navbar__logo{
+    font-size: 30px; 
+    letter-spacing: 2px;
+  }
+  
   .menu__container {
     flex-wrap: wrap;
     justify-content: center;
@@ -465,7 +470,7 @@ html {
   .navbar__logo {
     text-transform: uppercase;
     font-weight: 700;
-    font-size: 35px;
+    font-size: 27px;
     width: 100%;
     max-width: 250px;
     letter-spacing: 2.7px;
