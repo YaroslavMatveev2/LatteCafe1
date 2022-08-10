@@ -357,6 +357,9 @@ html {
     z-index: 20;
     display: block;
     right: 20px;
+    width: 35px;
+    height: 26px;
+    background-color: #ff5781;
   }
   .menu__container {
     flex-wrap: wrap;
