@@ -363,6 +363,7 @@ html {
     right: 20px;
     width: 35px;
     height: 26px;
+    background-color: none;
   }
   .menu__container {
     flex-wrap: wrap;
