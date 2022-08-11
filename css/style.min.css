@@ -436,6 +436,20 @@ html {
     top:0;
     left: 0;
   }
+  
+  .row{
+     display: block;
+  }
+  
+  .col{
+    marginn-bottom: 20px;
+  }
+  
+  .col:last-child{
+    margin-bottom: 0px;
+  }
+  
+  
   .links-active {
     opacity: 1;
     visibility: visible;
