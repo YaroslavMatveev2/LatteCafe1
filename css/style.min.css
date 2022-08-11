@@ -455,8 +455,7 @@ html {
     visibility: visible;
     transition: 0.3s ease-out;
     left: 0;
-    bottom: 0;
-    height: 50px;
+    right:0;
     bottom: 50px;
     display: flex;
     justify-content: center;
