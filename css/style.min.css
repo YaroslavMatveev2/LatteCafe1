@@ -8,8 +8,11 @@
   padding: 0;
 }
 
+:root {
+  color-scheme: light dark;
+}
+
 body {
-  color-scheme: light;
   overflow-x: hidden;
   background-color: rgb(74, 43, 51);
 }
